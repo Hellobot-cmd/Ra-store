@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Welcome To Oxygen Service Shop</title>
+<title>Welcome To Chumt Service Shop</title>
 
 <style>
 :root {
@@ -195,7 +195,7 @@ textarea {
 <!-- SCREEN 1 -->
 <div id="s1" class="screen active">
     <div class="card">
-        <h1>Oxygen Randi Store</h1>
+        <h1> Randi Store</h1>
         <p>Premium digital rand experience for my 24/7 services</p>
 
         <button class="btn" onclick="go('s1','s2')">Continue</button>
@@ -211,10 +211,10 @@ textarea {
     <div class="card">
         <div id="user" class="user"></div>
 
-        <h1>Oxygen Current Content:</h1>
+        <h1>chumt Current Content:</h1>
 
         <button class="btn" onclick="go('s2','s3')">
-            Oxygen Digital Randi 🥵 Service
+            chumt Digital Randi 🥵 Service
         </button>
 
         <button class="btn btn-secondary" onclick="openModal()">
